@@ -1,0 +1,35 @@
+@media (min-width: 768px) {
+  .masthead-brand {
+    float: left;
+  }
+  .masthead-nav {
+    float: right;
+  }
+}
+
+h1{
+   color: #000080;
+   text-align: center;
+}
+h3{
+    color: #000080;
+}
+
+form{
+   margin: auto;
+}
+
+.btn-group-vertical{
+    background: #000080;
+}
+btn,
+btn:focus,
+btn:houver{
+     color: #000080;
+}
+
+a,
+a:focus,
+a:hover {
+  color: #000080;
+}
